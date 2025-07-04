@@ -99,7 +99,103 @@ Salary Band = SWITCH(TRUE(),
     'Palmoria Group emp-data'[Salary] >= 90000, "$90,000 & Above"
 )
 ```
+### INSIGHTS
 
+---
+
+## 📘 Insight Report  
+> _“What gets measured gets improved.”_ This section turns HR analytics into clear strategy.
+
+<details>
+<summary><strong>🔍 Click to Expand: Turning HR Data Into Action</strong></summary>
+
+<br>
+
+## 📘 *Beyond the Surface: How Gender Inequality Could Stall Palmoria’s Growth*
+
+The numbers are in — and beneath **Palmoria Group’s** strong workforce metrics lies a quiet imbalance that could quietly throttle innovation, trust, and long-term sustainability.
+
+Recent HR data visualizations show a workforce of 946 employees, nearly evenly split on paper: **465 males, 441 females, and 40 undisclosed**. But when you look closer at **gender performance ratings, departmental saturation, and regional spread**, the real story emerges.
+
+---
+
+### ⚠️ Gender-Related Red Flags
+
+#### 1. **Disproportionate Performance Ratings**
+Across performance categories — especially *Very Good* and *Good* — male employees significantly outnumber females. This trend appears **regardless of department or region**, suggesting possible:
+- Implicit bias in performance evaluation methods  
+- Unequal access to projects, mentorship, or training opportunities for women  
+- Cultural or systemic barriers discouraging female employees from reaching top-tier ratings
+
+Left unaddressed, this risks creating a **glass ceiling effect** within the organization.
+
+#### 2. **Uneven Departmental Representation**
+From the visuals, female representation is noticeably lower in **technical, legal, and product-led functions** — areas often linked to strategic decision-making and innovation. Over time, this can:
+- Reinforce gender stereotypes in hiring and role assignment  
+- Undermine diverse perspectives in core business strategy  
+- Signal to future applicants that Palmoria is not a female-forward employer
+
+#### 3. **Undisclosed Genders — A Symptom of Mistrust?**
+With 40 employees choosing not to reveal their gender, Palmoria may be facing an issue of psychological safety. Employees withholding demographic data could point to:
+- A lack of inclusion in corporate culture  
+- Fear of discrimination or marginalization  
+- Gaps in communication about how this data is used and protected
+
+---
+
+### 🔧 Pathways to Progress
+
+Palmoria can turn this insight into impact by initiating thoughtful reforms:
+
+#### ✅ **Revamp Performance Evaluation Framework**
+- Introduce anonymized peer-review and multi-rater feedback  
+- Align evaluation metrics to clear, documented KPIs  
+- Audit recent evaluations for pattern-based bias
+
+#### ✅ **Gender-Inclusive Talent Development**
+- Launch leadership pipelines specifically for underrepresented groups  
+- Offer sponsorship programs and mentorship matching by gender/department  
+- Train managers on recognizing and mitigating unconscious bias
+
+#### ✅ **Boost Transparency and Trust in Data Collection**
+- Create campaigns explaining why demographic data is collected and how it supports inclusion  
+- Assure employees of anonymity and protection in reporting  
+- Include “Prefer not to say” as an explicit, non-punitive option
+
+#### ✅ **Recruitment & Retention Recalibration**
+- Set gender representation benchmarks per department  
+- Diversify hiring panels and standardize job descriptions to be inclusive  
+- Conduct stay interviews to understand retention risks for women and minorities
+
+---
+
+### 🎯 A Gender-Smart Future Is a Scalable Future
+
+For a company on the path to international expansion, **equity isn’t just about compliance—it’s a competitive advantage**. Diverse teams innovate faster, adapt better, and drive sustainable growth. By acknowledging and addressing these gender disparities now, Palmoria has the opportunity to model inclusive excellence for the entire West African manufacturing landscape.
+
+---
+
+### 🔧 Recommendations
+
+- **Revise Evaluation Practices**  
+  Adopt multi-rater feedback and manager training to ensure fairness.
+
+- **Build Gender-Equity Pipelines**  
+  Launch inclusive mentoring, leadership acceleration, and visibility programs.
+
+- **Foster Transparency in Data Collection**  
+  Communicate clearly how demographic data supports equity goals, and offer privacy-conscious options.
+
+- **Balance Hiring Across Departments**  
+  Use data-driven benchmarks to guide recruitment, retention, and succession planning.
+
+### 🎯 Why It Matters
+
+With international expansion on the horizon, Palmoria has an opportunity to lead by example. A workforce that reflects fairness and diversity isn’t just more ethical—it’s more effective.
+
+</details>
+
+---
 ---
 
 ### 📎 Files Used  
