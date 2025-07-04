@@ -51,7 +51,7 @@ Key business questions explored during EDA:
 ### 📊 Data Visualization  
 
 **Power BI Visual Snapshot**  
-
+![image]()
 
 _A video walkthrough or dashboard recording may be added here if available._
 
