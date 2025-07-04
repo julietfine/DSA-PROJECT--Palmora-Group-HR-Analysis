@@ -103,8 +103,8 @@ Salary Band = SWITCH(TRUE(),
 ---
 
 ### 📎 Files Used  
--- `Palmoria Group emp-data$`  *(Palmoria Group emp-data.csv)*
-- `Palmoria Group Bonus Rules$`*(Palmoria Group Bonus Rules.xlsx)*
+- [Palmoria Group emp-data$](./Palmoria%20Group%20emp-data.csv) *(Palmoria Group emp-data.csv)*
+- [Palmoria Group Bonus Rules$](./Palmoria%20Group%20Bonus%20Rules.xlsx) *(Palmoria Group Bonus Rules.xlsx)*
 - 
 
 ### 📂 Project Files
