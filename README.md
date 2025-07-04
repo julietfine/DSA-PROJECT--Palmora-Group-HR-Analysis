@@ -42,20 +42,38 @@ Conducted using Power BI and Excel. Key steps included:
 
 ### 🔍 Exploratory Data Analysis (EDA)  
 Key business questions explored during EDA:  
-- What is the overall sales trend by order date?  
-- Which products are the top sellers?  
-- When do peak sales occur?
+1. What is the gender distribution in the organization? Distil to regions and departments
+2. Show insights on ratings based on gender
+3. Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management
+4. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000
+● Does Palmoria meet this requirement?
+● Show the pay distribution of employees grouped by a band of $10,000. For example:
+● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.?
+
+---
+### Data Modelling
+The data was modelled and relatioships were created to improve the data analysis. Below is a screenshot of the data model:
+
+![Screenshot 2025-07-04 214528](https://github.com/user-attachments/assets/2f88b29b-c0e6-4eed-860d-03aed991689d)
 
 ---
 
 ### 📊 Data Visualization  
 
 **Power BI Visual Snapshot**  
-![image]()
+![Screenshot 2025-07-04 213809](https://github.com/user-attachments/assets/8054cb6f-bbfb-459e-baf9-c74b1f443741)
+![Screenshot 2025-07-04 213833](https://github.com/user-attachments/assets/d03b818a-25d5-4c1d-85fa-9d48e4c586ca)
+![Screenshot 2025-07-04 213848](https://github.com/user-attachments/assets/a2f6386e-5e83-4195-bd14-1793dadce72a)
+![Screenshot 2025-07-04 213903](https://github.com/user-attachments/assets/5d00fa4d-2b46-4318-bf96-b64ab6022b87)
+![Screenshot 2025-07-04 214500](https://github.com/user-attachments/assets/e024241b-7cb6-44fc-b6ab-3ee0ce02d3c0)
 
-_A video walkthrough or dashboard recording may be added here if available._
+
+
+_A video walkthrough of the dashboard recording is avaialbe here - 
+https://github.com/user-attachments/assets/09b707c9-3d51-431b-9e1b-e5eb3df1b841
 
 ---
+
 
 ### 🧠 Data Analysis & DAX Examples  
 Sample DAX expressions used in Power BI analysis:
