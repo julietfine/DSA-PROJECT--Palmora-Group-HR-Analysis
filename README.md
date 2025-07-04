@@ -106,5 +106,9 @@ Salary Band = SWITCH(TRUE(),
 -- `Palmoria Group emp-data$`  *(add link when uploaded)*
 - `Palmoria Group Bonus Rules$`*(add link when uploaded)*
 - 
+### 📂 Project Files
+
+- 📊 [Power BI Report – Palmoria_HR_Analysis.pbix](./Palmoria_HR_Analysis.pbix)
+- 📈 [Excel Dataset – LITA_Capstone_Data.xlsx](./LITA_Capstone_Data.xlsx)
 
 ---
